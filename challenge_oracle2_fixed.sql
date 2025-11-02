@@ -1,3 +1,4 @@
+ALTER SESSION SET CURRENT_SCHEMA = APPUSER;
 --------------------------------------------------------------------------------
 -- FIX: Modelo Único (Contábil + IoT) alinhado aos nomes de tabela/colunas do seu script atual
 -- Ajustes principais:
